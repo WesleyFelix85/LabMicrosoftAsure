@@ -1,4 +1,6 @@
 # Laboratório Microsoft Azure 1
+Passo a passo de como criar previsão de vendas de um empreendimento do aluguel de bicicletas no microsoft Azure
+
 1. Criou-se um novo recurso;
 2. Foi criado um novo grupo de recursos;
 3. Foi preenchido os dados com nome, região, conta de armazenamento, os outros dados foram preenchidos automaticamente como: cofre de chaves e Application Insights;
